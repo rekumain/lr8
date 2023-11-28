@@ -1,0 +1,12 @@
+C:\Users\ip521-10\source\repos\SimpleDataApp\SimpleDataApp\obj\Debug\SimpleDataApp.csprojAssemblyReference.cache
+C:\Users\ip521-10\source\repos\SimpleDataApp\SimpleDataApp\obj\Debug\SimpleDataApp.FillOrCancel.resources
+C:\Users\ip521-10\source\repos\SimpleDataApp\SimpleDataApp\obj\Debug\SimpleDataApp.Навигация.resources
+C:\Users\ip521-10\source\repos\SimpleDataApp\SimpleDataApp\obj\Debug\SimpleDataApp.NewCustomer.resources
+C:\Users\ip521-10\source\repos\SimpleDataApp\SimpleDataApp\obj\Debug\SimpleDataApp.Properties.Resources.resources
+C:\Users\ip521-10\source\repos\SimpleDataApp\SimpleDataApp\obj\Debug\SimpleDataApp.csproj.GenerateResource.cache
+C:\Users\ip521-10\source\repos\SimpleDataApp\SimpleDataApp\obj\Debug\SimpleDataApp.csproj.CoreCompileInputs.cache
+C:\Users\ip521-10\source\repos\SimpleDataApp\SimpleDataApp\bin\Debug\SimpleDataApp.exe.config
+C:\Users\ip521-10\source\repos\SimpleDataApp\SimpleDataApp\bin\Debug\SimpleDataApp.exe
+C:\Users\ip521-10\source\repos\SimpleDataApp\SimpleDataApp\bin\Debug\SimpleDataApp.pdb
+C:\Users\ip521-10\source\repos\SimpleDataApp\SimpleDataApp\obj\Debug\SimpleDataApp.exe
+C:\Users\ip521-10\source\repos\SimpleDataApp\SimpleDataApp\obj\Debug\SimpleDataApp.pdb
